@@ -59,6 +59,7 @@ Temporary Items
 *.vcproj
 *.user
 Debug/*
+Release/*
 rapidxml.hpp
 rapidxml_iterators.hpp
 rapidxml_print.hpp
